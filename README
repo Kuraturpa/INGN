@@ -2,3 +2,23 @@ INGN
 ====
 
 Irssi Notification Growl Nodejs
+Get desktop notifications from irssi using irssi script, nodejs and growl.
+Works when irssi is running locally or on remote machine.
+
+Requirements
+------------
+
+Server: libwww-curl-perl 
+Desktop: libnotify-bin, nodejs
+Nodejs modules: growl, qs
+
+Installation
+------------
+
+	git clone git://github.com/Kuraturpa/INGN.git
+	npm install
+
+How to use
+----------
+
+
