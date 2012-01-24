@@ -9,9 +9,9 @@ Works when irssi is running locally or on remote machine.
 Requirements
 ------------
 
-Server: libwww-curl-perl 
-Desktop: libnotify-bin, nodejs
-Nodejs modules: growl, qs
+* Server: libwww-curl-perl 
+* Desktop: libnotify-bin, nodejs
+* Nodejs modules: growl, qs
 
 Installation
 ------------
