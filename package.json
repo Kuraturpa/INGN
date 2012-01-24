@@ -1,0 +1,8 @@
+{
+    "name": "INGN"
+  , "version": "0.0.1"
+  , "dependencies": {
+      "growl": ">=1.4.1",
+		"qs": ">=0.4.0"
+  }
+}
