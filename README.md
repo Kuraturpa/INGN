@@ -2,6 +2,7 @@ INGN
 ====
 
 Irssi Notification Growl Nodejs
+
 Get desktop notifications from irssi using irssi script, nodejs and growl.
 Works when irssi is running locally or on remote machine.
 
